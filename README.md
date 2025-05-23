@@ -1,3 +1,11 @@
+<!-- Contadores de perfil -->
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=Juancho1403&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
+
 <!-- Encabezado animado -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Header" />
@@ -5,11 +13,6 @@
 
 <!-- Nombre principal -->
 <h1 align="center">Hi 👋, I'm Juan Andrés Ruiz Carapaica</h1>
-
-<!-- Frase con animación -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Confusion+is+part+of+Programming+💻;Passionate+about+tech+and+problem-solving!" alt="Typing SVG" />
-</h3>
 
 ---
 
@@ -63,13 +66,5 @@
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
 </p>
-
----
-
-<!-- Footer de olas -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer" />
-</p>
-
 
 
