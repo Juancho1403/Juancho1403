@@ -1,38 +1,48 @@
 <!-- Encabezado animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Banner"/>
+</p>
 
 <!-- Nombre principal -->
 <h1 align="center">Hi 👋, I'm Juan Andrés Ruiz Carapaica</h1>
 
 <!-- Frase -->
-<h3 align="center">Confusion is part of Programming 💻</h3>
+<h3 align="center">“Confusion is part of programming 💻”</h3>
 
-<!-- Animación Snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
+<!-- Snake Game animado -->
+<p align="center">
+  <img src="https://github.com/juancho1403/juancho1403/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
+</p>
 
 ---
 
 ### 🎓 About Me
 
-- 🔬 I’m currently pursuing a degree in **Computer Engineering** (8th semester) at **Universidad José Antonio Páez**
-- 🚀 Passionate about **technology, problem-solving**, and **customer interaction**
-- 🧠 Always open to **learning** and **adapting** in dynamic environments
-- ✨ Motivated to contribute to **impactful and efficient solutions**
-- 🤝 Excited to **collaborate** with tech communities
+- 🎓 Computer Engineering Student – **8th semester** at **Universidad José Antonio Páez**
+- 🚀 Passionate about **technology**, **problem-solving**, and **building solutions that matter**
+- 💬 Strong skills in **communication** and **collaboration** with cross-functional teams
+- 📚 Constantly learning new technologies and frameworks
+- 🤝 Open to networking and contributing to open-source projects
 - 📫 Reach me at **juanandresr000@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,py,cpp,js,html,css,nodejs,react,reactnative,django,fastapi,unity,mongodb,mysql,postgres,xampp,git,linux,vscode&perline=12" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juancho1403&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juancho1403&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juancho1403&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juancho1403&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juancho1403&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juancho1403&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
@@ -45,10 +55,14 @@
 
 ---
 
-### 🛠️ Technologies I Use
+### 🎮 Fun Fact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,cpp,py,js,html,css,nodejs,react,mongodb,postgres,vscode,linux&perline=12" />
+  🐍 The snake below is a game based on my contributions – keep feeding it with code!
+</p>
+
+<p align="center">
+  <img src="https://github.com/juancho1403/juancho1403/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 </p>
 
 ---
@@ -63,15 +77,6 @@
 
 ---
 
-### 🔍 Profile Visitors
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Juancho1403&icon=3&color=6" alt="Profile Visitors" />
-  </a>
-</p>
-
-<!-- Divider inferior -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
