@@ -23,7 +23,8 @@
 - 🧠 Curious, adaptable and always eager to learn something new
 - ⚙️ Enjoy solving problems, building tools and making lives easier through code
 - 🤝 I thrive in collaborative environments and love being part of tech communities
-- 📧 You can reach me at **juanandresr000@gmail.com**
+- 📧 Reach me at **juanandresr000@gmail.com**
+- 💬 Ask me about **Python, React, Node.js, MongoDB, Django, FastAPI**
 
 ---
 
@@ -65,9 +66,10 @@
 
 ---
 
-<!-- Animación de olas como separación -->
+<!-- Footer de olas -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer" />
 </p>
+
 
 
