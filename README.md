@@ -6,26 +6,31 @@
 <!-- Nombre principal -->
 <h1 align="center">Hi 👋, I'm Juan Andrés Ruiz Carapaica</h1>
 
-<!-- Frase -->
-<h3 align="center">Confusion is part of Programming 💻</h3>
+<!-- Frase con animación -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Confusion+is+part+of+Programming+💻;Passionate+about+tech+and+problem-solving!" alt="Typing SVG" />
+</h3>
 
 ---
 
 ### 🎓 About Me
 
-- 🔬 I’m currently pursuing a degree in **Computer Engineering** (8th semester) at **Universidad José Antonio Páez**
-- 🚀 Passionate about **technology, problem-solving**, and **customer interaction**
-- 🧠 Always open to **learning** and **adapting** in dynamic environments
-- ✨ Motivated to contribute to **impactful and efficient solutions**
-- 🤝 Excited to **collaborate** with tech communities
-- 📫 Reach me at **juanandresr000@gmail.com**
+<p align="center">
+  <img src="https://github.com/Juancho1403/Juancho1403/assets/73097560/1b93e5aa-5b7d-4041-a631-6ea233ef57e0" width="300"/>
+</p>
+
+- 🎓 **Computer Engineering Student** (8th semester) at **Universidad José Antonio Páez**
+- 🧠 Curious, adaptable and always eager to learn something new
+- ⚙️ Enjoy solving problems, building tools and making lives easier through code
+- 🤝 I thrive in collaborative environments and love being part of tech communities
+- 📧 You can reach me at **juanandresr000@gmail.com**
 
 ---
 
 ### 🛠️ Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,py,cpp,js,html,css,nodejs,react,reactnative,django,fastapi,unity,mongodb,mysql,postgres,git,vscode,linux&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,java,ts,py,cpp,js,html,css,nodejs,react,reactnative,django,fastapi,unity,mongodb,mysql,postgres,linux,vscode,julia,r,conda&perline=10" alt="Tech Stack" />
 </p>
 
 ---
@@ -60,17 +65,9 @@
 
 ---
 
-### 🔍 Profile Visitors
-
+<!-- Animación de olas como separación -->
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Juancho1403&icon=3&color=6" alt="Profile Visitors" />
-  </a>
-</p>
-
-<!-- Divider inferior -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer" />
 </p>
 
 
