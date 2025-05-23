@@ -2,7 +2,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juancho1403&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Juancho1403&style=plastic&color=red" alt="Profile Views"/>
 </p>
 
 <!-- Contribution Snake Animation -->
