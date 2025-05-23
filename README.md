@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Juancho1403&style=plastic&color=red" alt="Profile Views"/>
 </p>
 
-<!-- Contribution Snake Animation -->
+<!-- Contribution Snake Animation with red hue -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="filter: hue-rotate(90deg);"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="filter: hue-rotate(0deg);"/>
 </p>
 
 <!-- Animated Header -->
@@ -22,9 +22,6 @@
 
 <!-- About Me -->
 <h2 align="center"> 🎓 About Me </h2>
-<p align="center">
-  <img src="https://github.com/Juancho1403/Juancho1403/assets/73097560/1b93e5aa-5b7d-4041-a631-6ea233ef57e0" width="300" alt="Juan Andres Ruiz" />
-</p>
 <ul>
   <li>🎓 <strong>Computer Engineering Student</strong> (8th semester) at <strong>Universidad José Antonio Páez</strong></li>
   <li>🧠 Curious, adaptable, and always eager to learn something new</li>
@@ -39,7 +36,7 @@
 <!-- Technologies I Use -->
 <h2 align="center"> 🛠️ Technologies I Use </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,java,ts,py,cpp,js,html,css,nodejs,react,reactnative,django,fastapi,mongodb,mysql,postgres,linux,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,java,ts,py,cpp,js,html,css,nodejs,react,django,fastapi,mongodb,mysql,postgres,linux,vscode&perline=9" alt="Tech Stack" />
 </p>
 
 <hr/>
@@ -73,5 +70,6 @@
 <hr/>
 
 <p align="center"><em>Thanks for visiting my profile! ✨</em></p>
+
 
 
